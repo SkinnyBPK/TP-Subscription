@@ -1,0 +1,45 @@
+body {
+  background-color: grey;
+}
+
+.App {
+  text-align: center;
+  color: black; 
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+
+.Suscripciones {
+  background-color:  grey;
+  display: block;
+  width: 30%;
+  margin-left: 150px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+.showBlock {
+  width: 50%;
+  color: black;
+}
+
+.Suscripcion {
+  color: rgb(255, 255, 255);
+}
+.col-center{
+  float: none;
+  margin: 0 auto;
+}
+
+
